@@ -1,4 +1,4 @@
-Projet pédagogique : kpu le 08/10/2013 - LDV -Melun
+Projet pédagogique : kpu le 08/10/2013 - LDV -Melun ttt
 
 Le but de ce projet est de permettre à des étudiants ayant une première expérience
  de la POO (initiation), de reprendre du service avec plaisir en début de seconde année SIO ;-)
