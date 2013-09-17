@@ -47,7 +47,7 @@ public class Bidule extends JPanel {
 	}
 
 
-	public static final int TAILLE_BIDULE = 0;
+	public static final int TAILLE_BIDULE = 50;
 
   @Override
   public String toString() {
@@ -444,6 +444,8 @@ private boolean selected;
   public boolean isRunning() {
     return timer.isRunning();
   }
- 
+  public int getDELAY() {
+	    return DELAY;
+	  }
 }
 
